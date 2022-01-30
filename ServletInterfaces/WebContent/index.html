@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Servlet Interfaces</title>
+</head>
+<body>
+
+<a href="interface">Show Servlet Interface</a>
+
+</body>
+</html>
